@@ -1,5 +1,5 @@
 ---
-title: "A study of gdpr compliance under the transparency and consent framework"
+title: 'A study of gdpr compliance under the transparency and consent framework'
 collection: publications
 category: conferences
 permalink: /publication/tcf_gdpr_2024

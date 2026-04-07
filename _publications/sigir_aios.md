@@ -3,7 +3,7 @@ title: "How Generative AI Disrupts Search: An Empirical Study of Google Search, 
 collection: publications
 category: conferences
 permalink: /publication/sigir_aios
-excerpt: 'This paper shows that Google's generative search engines significantly differ from Google Search in terms of the retrieved sources for a user query. It further explores what types of content see substantial changes in visibility due to generative search and considers the implications for publishers and users.'
+excerpt: "This paper shows that Google's generative search engines significantly differ from Google Search in terms of the retrieved sources for a user query. It further explores what types of content see substantial changes in visibility due to generative search and considers the implications for publishers and users."
 date: 2026-07-24
 venue: '2026 ACM SIGIR Conference on Research and Development in Information Retrieval'
 citation: 'Grossman, R., Liu, S., Chen, M., Smith, M., Borcea, C., & Chen, Y. (2026). How Generative AI Disrupts Search: An Empirical Study of Google Search, Gemini, and AI Overviews. Forthcoming in the ACM SIGIR Conference on Research and Development in Information Retrieval.'

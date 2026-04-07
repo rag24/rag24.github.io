@@ -3,7 +3,7 @@ title: "Knot mosaics with corner connection tiles"
 collection: publications
 category: articles
 permalink: /publication/knot_theory
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper explores the efficiency of representing knot mosaics using new tiles where the connection points are in the corners, rather than midpoints of each edge.'
 date: 2023-09-01
 venue: 'Pi Mu Epsilon Journal'
 paperurl: 'https://academicpages.github.io/files/knot_theory.pdf'

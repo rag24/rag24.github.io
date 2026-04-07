@@ -3,7 +3,7 @@ title: 'A study of gdpr compliance under the transparency and consent framework'
 collection: publications
 category: conferences
 permalink: /publication/tcf_gdpr_2024
-excerpt: 'This paper evaluates whether the Interactive Advertising Bureau's Transparency and Consent Frmaework truly protects user privacy on the Web and ensures publisher compliance with the General Data Protection Regulation.'
+excerpt: "This paper evaluates whether the Interactive Advertising Bureau's Transparency and Consent Frmaework truly protects user privacy on the Web and ensures publisher compliance with the General Data Protection Regulation."
 date: 2024-05-13
 venue: 'Proceedings of the ACM Web Conference 2024'
 paperurl: 'https://academicpages.github.io/files/gdpr_tcf_webconf.pdf'

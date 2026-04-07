@@ -23,7 +23,7 @@ repository               : "rag24/rag24.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Gemini_cleaned_background_headshot_cropped.png"
   name             : "Riley Grossman"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate in Business Data Science"

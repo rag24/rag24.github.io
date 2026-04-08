@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/instructor.md
 venue: "New Jersey Institute of Technology, Martin Tuchman School of Management"
-date: Spring 2026
+date: 2026-01-20
 location: "Newark, NJ"
 ---
 

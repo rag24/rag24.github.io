@@ -4,7 +4,7 @@ collection: teaching
 type: TA
 permalink: /teaching/assistant
 venue: "New Jersey Institute of Technology, Martin Tuchman School of Management"
-date	2026-04-09
+date:	2026-04-09
 location: "Newark, NJ"
 ---
 

@@ -7,16 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+Riley Grossman is a Ph.D. candidate in Business Data Science at the Martin Tuchman School of Management at New Jersey Institute of Technology (NJIT). He is advised by Dr. Yi Chen. Prior to NJIT, he earned his bachelor's degree in Applied Mathematics at the State University of New York at Geneseo. 
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+His research interests generally focus on the application of AI to business problems, and the implications of deployed systems. Most specifically, his research focuses on applications of AI in the digital publishing industry. His dissertation explores applications of AI to better understand how businesses respond to privacy regulation and how this impacts user privacy on the Web through the automated detection of noncompliant or manipulative websites. More recently, his work focuses on investigating and quantifying how generative search systems such as ChatGPT and Google AI Overviews are impacting digital publishers, as well as the quality of information received by users. He has further been involved in the development of new AI or machine learning systems with applications to healthcare, explainable readmission prediction, and uncovering biases in human decision-making. 
+
+
 
 Research Interests
 ======
 
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+- Generative Search and its Impact to the Digital Publishing Ecosystem
+- Web Privacy and Compliance
+- Applications of AI in Business (healthcare, finance, decision-making)
 
 
 

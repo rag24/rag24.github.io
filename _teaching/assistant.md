@@ -1,6 +1,7 @@
 ---
 title: "Teaching Assistant Experience"
 collection: teaching
+type: TA
 permalink: /teaching/assistant
 venue: "New Jersey Institute of Technology, Martin Tuchman School of Management"
 location: "Newark, NJ"

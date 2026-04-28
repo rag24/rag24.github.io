@@ -5,6 +5,7 @@ category: conferences
 permalink: /publication/acl_LAURAE
 excerpt: "This paper proposes LAURAE for the automatic readability assessment task, an ensemble method combining combining LLM and readability formula scores, where ensemble weights are determined from the LLM's verbalized confidence scores."
 date: 2026-07-07
+paperurl: 'https://rag24.github.io/files/acl_readability_LAURAE.pdf'
 venue: 'The 64th Annual Meeting of the Association for Computational Linguistics'
 citation: 'Grossman, R. & Chen, Y. (2026). Zero-shot Large Language Models for Automatic Readability Assessment. Forthcoming in the 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026).'
 ---

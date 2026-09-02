@@ -2,7 +2,7 @@
 title: "Teaching Experience"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/instructor.md
+permalink: /teaching/instructor
 venue: "New Jersey Institute of Technology, Martin Tuchman School of Management"
 date: 2026-09-01
 location: "Newark, NJ"

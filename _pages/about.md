@@ -15,12 +15,12 @@ My research interests generally focus on the application of AI to business probl
 
 Research Interests
 ======
--Impact of Generative Search on Digital Publishing Industry
--Web Privacy and Compliance 
--Impact of Generative AI on Information Ecosystems
--Explainable, Fair, and Responsible AI
--Applications of AI in Business (healthcare, advertising, decision-making)
--Digital Advertising Ecosystem
+- Impact of Generative Search on Digital Publishing Industry
+- Web Privacy and Compliance 
+- Impact of Generative AI on Information Ecosystems
+- Explainable, Fair, and Responsible AI
+- Applications of AI in Business (healthcare, advertising, decision-making)
+- Digital Advertising Ecosystem
 
 
 

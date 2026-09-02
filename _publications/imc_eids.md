@@ -1,0 +1,12 @@
+---
+title: "A Longitudinal Study of Extended User IDs in the Online Advertising Ecosystem"
+collection: publications
+category: conferences
+permalink: /publication/imc_eids
+excerpt: "This paper shows that the alternative tracking technology of extended identifiers has become substantially more popular in client-side header bidding auctions in recent years. Although initially proposed as an alternative to third-party cookies, the findings suggest that EIDs are being used to complement third-party cookies as their prevalence continued to rise after third-party cookie deprecation on Google was abandoned."
+date: 2026-10-12
+venue: '2026 ACM Internet Measurement Conference'
+paperurl: 'https://rag24.github.io/files/eids_IMC_camera_ready.pdf' 
+citation: 'Michael Smith, Riley Grossman, Krzysztof Franaszek, Antonio Torres-Agüero, Pritam Sen, Cristian Borcea, and Yi Chen. 2026. A Longitudinal Study of Extended User IDs in the Online Advertising Ecosystem. In Proceedings of the 2026 ACM Internet Measurement Conference (IMC ’26), October 12–16, 2026, Karlsruhe, Germany. ACM, New York, NY, USA, 10 pages. https://doi.org/10.1145/3777912.3839792'
+---
+As third-party cookies fade because of browser restrictions, the online advertising ecosystem is turning to extended identifiers (EIDs) as an alternative. EIDs are persistent user identifiers, such as hashed email addresses, that are employed to link users across domains and devices. This paper presents a 41-month longitudinal study examining EID usage in over 145 million HTTP header bidding requests sent to six major supply-side platforms (SSPs) from 616,539 websites. Our findings show that EIDs are widely used and are becoming increasingly prevalent in the digital advertising ecosystem, reaching 83.76% of studied websites by May 2025. Our analysis of the 18 popular EID providers that account for 99.42% of all transmitted EIDs in our dataset raises concerns about the readiness of EIDs as an alternative to third-party cookie tracking. In terms of accuracy, only one identity provider consistently recognizes and identifies that the visitor is a self-identified bot crawler, and many providers regularly transmit multiple EIDs for the same visitor. We also identify privacy concerns with EIDs, as 12 of the providers create persistent EIDs that can identify the same user across visits, websites, devices, and months. Finally, we found that 16 providers transmit EIDs on EU websites without user consent.
